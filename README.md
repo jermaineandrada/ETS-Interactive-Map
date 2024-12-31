@@ -1,6 +1,5 @@
 
-
----  
+  
 # ETS Interactive Map
 
 ## Overview  
@@ -25,6 +24,3 @@ This project allows users to visualize routes by plotting pixel-based representa
 ## Notes  
 - Ensure the data file is up to date and properly formatted.  
 - Partial inputs are allowed but may yield limited results if the full route cannot be determined.  
-
----  
-Let me know if you'd like to adjust anything else!
